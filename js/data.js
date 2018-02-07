@@ -1,0 +1,1 @@
+let images = ['paisaje1.jpg', 'paisaje2.jpg', 'paisaje3.jpg','paisaje4.jpg', 'paisaje5.jpg', 'paisaje6.jpg'];
