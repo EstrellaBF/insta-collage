@@ -1,4 +1,15 @@
 .image-small {
   width: 150px;
-  height: 141px;
+  height: 140px;
+}
+
+.container-collage {
+  /* height: 35rem; */
+  background-color: #bcbcbc;
+}
+
+.box {
+  height: 150px;
+  width: 140px;
+  border: 1px dashed pink;
 }
